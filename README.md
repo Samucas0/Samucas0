@@ -41,7 +41,7 @@ Sou um profissional de tecnologia com uma base sólida em desenvolvimento de sof
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
 | [**Microservices with Node.js**](https://github.com/Samucas0/microservices-node-lesson) | Arquitetura de microserviços para um e-commerce, utilizando comunicação assíncrona com mensageria e containers. | Node.js, Docker, RabbitMQ, Prisma |
-| [**Cinetag (React App)**](https://github.com/Samucas0/react_class) | Aplicação Front-end moderna para gestão de filmes favoritos, demonstrando consumo de APIs e componentização. | React, JavaScript, CSS Modules |
+| [**Samu Max (React App)**](https://github.com/Samucas0/react_class) | Aplicação Front-end moderna para gestão de filmes favoritos, demonstrando consumo de APIs e componentização. | React, JavaScript, CSS Modules |
 
 ---
 
